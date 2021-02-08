@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace GameProject_v1
 {
-    class Producter
+    public class Producter:SiteUser
     {
+        public string Name { get; set; }
+        public string TaxNo { get; set; }
     }
 }

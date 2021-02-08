@@ -8,5 +8,6 @@ namespace GameProject_v1
 {
     interface IDataService
     {
+        void AddUser();
     }
 }
