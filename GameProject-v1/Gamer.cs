@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace GameProject_v1
 {
-    class Gamer
+    public class Gamer
     {
+        public string Name { get; set; }
     }
 }

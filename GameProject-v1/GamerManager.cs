@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GameProject_v1
 {
-    class GamerManager:IEdevletService,ISatisYap
+    class GamerManager:IEdevletService
     {
         public void Adduser()
         {
@@ -18,5 +18,7 @@ namespace GameProject_v1
         {
             Console.WriteLine("e devletten kullanıcı kontrol edildi");
         }
+
+
     }
 }
