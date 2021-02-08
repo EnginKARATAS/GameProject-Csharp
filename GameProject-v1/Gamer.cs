@@ -6,16 +6,7 @@ using System.Threading.Tasks;
 
 namespace GameProject_v1
 {
-    partial class Program
-    {
-        static void Main(string[] args)
-        {
-        }
-    }
-}
-namespace GameProject_v1
-{
-    partial class Program
+    class Gamer
     {
     }
 }
